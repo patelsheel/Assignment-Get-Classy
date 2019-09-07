@@ -1,6 +1,33 @@
 # Assignment 2: Get Classy
-<!-- 🚀🚀🚀🚀 SCROLL DOWN AND FILL OUT THE SELF EVALUATION SECTION 🚀🚀🚀🚀 -->
+<!-- 🚀🚀🚀🚀 Scroll down for the assignment instructions 🚀🚀🚀🚀 -->
 
+## Assignment Self Assessment:
+#### Reflection
+[//]: <> (share your thoughts on the assignment, things you learnt and would like to remember when you look back at this assignment)
+
+
+#### Self Assessment
+##### Part 1:
+- [ ] The program runs with no errors.
+- [ ] The Person class includes all the fields and methods specified above.
+- [ ] Usage of the `Calendar` object to calculate age in the `getAge` method.
+- [ ] The program properly instantiates objects using the class constructor.
+- [ ] The program properly stores the Objects in an `ArrayList`.
+- [ ] Proper usage of Git and GitHub (frequent commits, explanatory commit messages)
+
+##### Part 2:
+- [ ] The program runs with no errors.
+- [ ] The program properly uses the `JFileChooser`.
+- [ ] The program properly instantiates objects using the class constructor.
+- [ ] The program properly stores the Objects in an `ArrayList`.
+- [ ] The program output is formatted properly.
+- [ ] Proper usage of Git and GitHub (frequent commits, explanatory commit messages)
+
+**Your Grade:**  /20
+
+**Notes:**
+
+ -----
 <!--⬇⬇⬇⬇⬇⬇ DO NOT MODIFY THIS SECTION ⬇⬇⬇⬇⬇⬇ -->
 ### Lab Goals
 1. Practice creating classes and instantiating objects.
@@ -24,8 +51,8 @@ convention, `2-get-classy-<your-github-username>`, (i.e., `2-get-classy-Ygilany`
 
 1. Create a `Person.java` class to represent a Person Object.
 
-  |**Person**|||
-  |-------|||
+  |**Person**| | |
+  |-------|--|--|
   |*Fields*|||
   ||`String ID;`| |
   ||`String firstName;`| |
@@ -81,29 +108,3 @@ ID    Firstname    Lastname   Title    YOB
 
 <!--⬆⬆⬆⬆⬆⬆ DO NOT MODIFY THIS SECTION ⬆⬆⬆⬆⬆⬆ -->
  -----
- 
-## Assignment Self Assessment:
-#### Reflection
-[//]: <> (share your thoughts on the assignment, things you learnt and would like to remember when you look back at this assignment)
-
-
-#### Self Assessment
-##### Part 1:
-- [ ] The program runs with no errors.
-- [ ] The Person class includes all the fields and methods specified above.
-- [ ] Usage of the `Calendar` object to calculate age in the `getAge` method.
-- [ ] The program properly instantiates objects using the class constructor.
-- [ ] The program properly stores the Objects in an `ArrayList`.
-- [ ] Proper usage of Git and GitHub (frequent commits, explanatory commit messages)
-
-##### Part 2:
-- [ ] The program runs with no errors.
-- [ ] The program properly uses the `JFileChooser`.
-- [ ] The program properly instantiates objects using the class constructor.
-- [ ] The program properly stores the Objects in an `ArrayList`.
-- [ ] The program output is formatted properly.
-- [ ] Proper usage of Git and GitHub (frequent commits, explanatory commit messages)
-
-**Your Grade:**  /20
-
-**Notes:**
