@@ -1,4 +1,4 @@
-# Assignment 1: Meet and Greet (Review)
+# Assignment 2: Get Classy
 <!-- 🚀🚀🚀🚀 SCROLL DOWN AND FILL OUT THE SELF EVALUATION SECTION 🚀🚀🚀🚀 -->
 
 <!--⬇⬇⬇⬇⬇⬇ DO NOT MODIFY THIS SECTION ⬇⬇⬇⬇⬇⬇ -->
